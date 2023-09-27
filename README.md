@@ -1,2 +1,2 @@
 # hello-world
-First time on github repository
+First time on github repository Code!
